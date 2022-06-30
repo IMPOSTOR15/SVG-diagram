@@ -1,4 +1,4 @@
-# svg_test_2
+# svg_img
 
 ## Project setup
 ```
